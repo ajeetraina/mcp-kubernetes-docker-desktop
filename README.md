@@ -108,6 +108,12 @@ Open Claude Desktop > Click on "Hammer" sign and see if it detects your Kubernet
 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/e1a92b21-7fe6-4a5d-9da4-72d2d2897ea2" />
 
+## Prompt: Can you list out number of nodes in the Kubernetes cluster
+
+<img width="991" alt="image" src="https://github.com/user-attachments/assets/60f88e8c-4e86-4500-bb08-56405bb3e4ae" />
+
+## Prompt: 
+
 
 
 ## Features
