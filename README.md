@@ -112,8 +112,9 @@ Open Claude Desktop > Click on "Hammer" sign and see if it detects your Kubernet
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/60f88e8c-4e86-4500-bb08-56405bb3e4ae" />
 
-## Prompt: 
+## Prompt: Can you list out all the services and deployments in the kubernetes cluster
 
+<img width="998" alt="image" src="https://github.com/user-attachments/assets/f51b59df-5aa6-4931-b0f6-0e1e1243155f" />
 
 
 ## Features
